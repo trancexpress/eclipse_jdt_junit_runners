@@ -4,7 +4,7 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<properties>
-		<tycho-version>0.17.0</tycho-version>
+		<tycho-version>4.0.3</tycho-version>
 	</properties>
 
 	<groupId>org.eclipse.jdt.junit.runners</groupId>
