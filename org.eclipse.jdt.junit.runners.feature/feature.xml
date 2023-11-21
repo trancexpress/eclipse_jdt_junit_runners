@@ -22,7 +22,7 @@
    <includes id="org.eclipse.jdt.junit.runners.feature.source" version="0.0.0"/>
 
    <requires>
-      <import feature="org.eclipse.jdt" version="3.8.0.v20120525-1249-8-8nFqlFNOfwKDRGz-pXJdG0GW83"/>
+      <import feature="org.eclipse.jdt" version="3.18.1300.v20230803-1316"/>
    </requires>
 
    <plugin
